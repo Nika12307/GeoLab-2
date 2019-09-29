@@ -1,0 +1,94 @@
+.logo{
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.nav-ul{
+    margin-left: 30px;
+    margin-top: 24px;
+}
+.nav-li, .nav-li-cheked{
+    margin-top: 14px;
+    font-size: 22px
+}
+.nav-li-cheked{
+    color: #EE4036
+}
+.index-img{
+    width: 1170px;
+    margin-top: 27px;
+    margin-left: 30px;
+}
+.text-on-img{
+    position: absolute;
+    top: 225px;
+    left: 60px;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase; 
+    padding-top: 33px;
+    padding-left: 31px;
+}
+.facebook{
+    height: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.line{
+    height: 30px;
+    margin-left: 35px;
+}
+.youtube{
+    height: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.contact-article{
+    padding-top: 150px;
+    padding-left: 518px;
+    padding-bottom: 288px;
+}
+.contact-article-p1{
+    font-size: 20px;
+    color: #3D58A6;
+    font-weight: bold;
+}
+.contact-article-p{
+    font-size: 16px;
+}
+.contact-article-p-bold{
+    font-weight: bold;
+}
+.contact-article-p-color{
+    color: #808080
+}
+.blue-box{
+    background-color: #3D58A6;
+    color: white;
+    font-size: 48px;
+    padding: 10px;
+    
+}
+.my-article{
+    margin-top: 42px;
+    margin-left: 30px;
+}
+h3{
+    margin-top:15px;
+    font-size: 20px;
+    margin-bottom: 26px;
+    font-weight: bold;
+}
+.may-p{
+    font-size: 22px;
+    color: #3D58A6;
+    margin-top: 13px;
+}
+.article-image{
+    width: 270px;
+    margin-bottom: 30px;
+}
+.article-p{
+    font: size 16;px;
+    margin-bottom: 25px;
+}
